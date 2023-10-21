@@ -1,4 +1,4 @@
-package stepByStep.StringA;
+package stepByStep.stringA;
 
 import java.io.*;
 

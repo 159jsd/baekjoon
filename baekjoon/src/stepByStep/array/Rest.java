@@ -1,4 +1,4 @@
-package stepByStep.Array;
+package stepByStep.array;
 
 import java.util.HashSet;
 import java.util.Scanner;
